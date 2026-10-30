@@ -10,5 +10,6 @@ namespace RoomToRentRadar.Services
         /// </summary>
         /// <param name="ex">Exception being thrown.</param>
         void HandleError(Exception ex);
+        // test
     }
 }
